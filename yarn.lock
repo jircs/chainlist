@@ -2,26 +2,26 @@
 # yarn lockfile v1
 
 
-"@ariakit/core@0.2.7":
-  version "0.2.7"
-  resolved "https://registry.yarnpkg.com/@ariakit/core/-/core-0.2.7.tgz#b7ee9d44ec552f3010201ed01c4f40f18afc48c3"
-  integrity sha512-Hs0N1EMYq88WW4v9xnSIHNR38TvbQuoUX6FYFmeLCZSTIXQBiET7lr1DQXwOOmdEtRtlxQ5HsxbTkxeOkPv+eg==
+"@ariakit/core@0.3.11":
+  version "0.3.11"
+  resolved "https://registry.yarnpkg.com/@ariakit/core/-/core-0.3.11.tgz#afb4afe5a7da1f29dae9c3b49cba7724930f05b7"
+  integrity sha512-+MnOeqnA4FLI/7vqsZLbZQHHN4ofd9kvkNjz44fNi0gqmD+ZbMWiDkFAvZII75dYnxYw5ZPpWjA4waK22VBWig==
 
-"@ariakit/react-core@0.2.12":
-  version "0.2.12"
-  resolved "https://registry.yarnpkg.com/@ariakit/react-core/-/react-core-0.2.12.tgz#b2b1184f0ed5e817e92b76ae8684caec7f2eca06"
-  integrity sha512-3KSKlX10nnhCvjsbPW0CAnqG+6grryfwnMkeJJ/h34FSV7hEfUMexmIjKBVZyfBG08Xj8NjSK8kkx9c3ChkXeA==
+"@ariakit/react-core@0.3.14":
+  version "0.3.14"
+  resolved "https://registry.yarnpkg.com/@ariakit/react-core/-/react-core-0.3.14.tgz#4f1a7cb5cdbbe00673deafe33a515afe5bf994c7"
+  integrity sha512-16Qj6kDPglpdWtU5roY9q+G66naOjauTY5HvUIaL2aLY0187ATaRrABIKoMMzTtJyhvsud4jFlzivz+/zCQ8yw==
   dependencies:
-    "@ariakit/core" "0.2.7"
+    "@ariakit/core" "0.3.11"
     "@floating-ui/dom" "^1.0.0"
     use-sync-external-store "^1.2.0"
 
-"@ariakit/react@^0.2.12":
-  version "0.2.12"
-  resolved "https://registry.yarnpkg.com/@ariakit/react/-/react-0.2.12.tgz#4a2a2c0977e40cf192f44f3c54ea61d7ac4e02ac"
-  integrity sha512-4rAgMyUURHW78EKgRCanhyRUtsiYCOxO65BBHF4mg3tZsDeOvu9kBG5IAXX8mUgakTcyr0EKXuOtGThaj7gobA==
+"@ariakit/react@^0.3.14":
+  version "0.3.14"
+  resolved "https://registry.yarnpkg.com/@ariakit/react/-/react-0.3.14.tgz#39ed0331148fb3e7a163cc731f1e8cbdb09abf21"
+  integrity sha512-h71BPMZ2eW+E2ESbdYxSAEMR1DozYzd5eHE5IOzGd9Egi5u7EZxqmuW4CXVXZ1Y6vbaDMV3SudgPh7iHS/ArFw==
   dependencies:
-    "@ariakit/react-core" "0.2.12"
+    "@ariakit/react-core" "0.3.14"
 
 "@ethersproject/abi@5.7.0", "@ethersproject/abi@^5.7.0":
   version "5.7.0"
